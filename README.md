@@ -1,2 +1,3 @@
 # Java-Backend-Journey
-Learning java basic to advance
+My personal roadmap and code repository for mastering Java Backend Development.
+
