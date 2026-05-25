@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class SwitchStatement {
     public static void main(String args[])
     {
+        System.out.println("MINI CALCULATOR");
         int a,b,exp;
         System.out.println("Enter no for a,b");
         Scanner sc =new Scanner(System.in);
@@ -14,7 +15,7 @@ public class SwitchStatement {
         {
             case 1 : System.out.println("Addition : "+(a+b));
             break;
-            case 2 : System.out.println("Substarction : "+(a-b));
+            case 2 : System.out.println("Subtarction : "+(a-b));
             break;
             case 3 : System.out.println("Multiplication : "+(a*b));
             break;
